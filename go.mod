@@ -8,7 +8,7 @@ require (
 	github.com/OneOfOne/xxhash v1.2.8
 	github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d
 	github.com/adrg/xdg v0.4.0
-	github.com/anchore/bubbly v0.0.0-20230919123500-747f4abea05f
+	github.com/anchore/bubbly 6542675d79fe
 	github.com/khulnasoft-lab/gobin/pkg/clio v0.0.0-20230823172630-c42d666061af
 	github.com/anchore/fangs v0.0.0-20230818131516-2186b10924fe
 	github.com/khulnasoft-lab/gobin/pkg/go-logger v0.0.0-20230725134548-c21dafa1ec5a
