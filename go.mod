@@ -10,7 +10,7 @@ require (
 	github.com/adrg/xdg v0.4.0
 	github.com/anchore/bubbly v0.0.0-20230919123500-747f4abea05f
 	github.com/khulnasoft-lab/gobin/pkg/clio v0.0.0-20230823172630-c42d666061af
-	github.com/anchore/fangs v0.0.0-20230818131516-2186b10924fe
+	github.com/anchore/fangs c9c280895c43
 	github.com/khulnasoft-lab/gobin/pkg/go-logger v0.0.0-20230725134548-c21dafa1ec5a
 	github.com/chainguard-dev/yam v0.0.0-20230904174023-8d3c53b7e9d7
 	github.com/charmbracelet/bubbles v0.16.1
