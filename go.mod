@@ -1,6 +1,6 @@
 module github.com/khulnasoft-lab/gobin
 
-go 1.21.1
+go 1.21.5
 
 require (
 	github.com/Masterminds/semver/v3 v3.2.1
