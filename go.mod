@@ -13,7 +13,7 @@ require (
 	github.com/charmbracelet/bubbles v0.16.1
 	github.com/charmbracelet/bubbletea v0.24.2
 	github.com/charmbracelet/lipgloss v0.8.0
-	github.com/creack/pty v1.1.18
+	github.com/creack/pty v1.1.21
 	github.com/gabriel-vasile/mimetype v1.4.2
 	github.com/gkampitakis/go-snaps v0.4.10
 	github.com/go-git/go-git/v5 v5.9.0
