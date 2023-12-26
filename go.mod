@@ -19,7 +19,7 @@ require (
 	github.com/go-git/go-git/v5 v5.9.0
 	github.com/google/go-cmp v0.5.9
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
-	github.com/google/yamlfmt v0.9.1-0.20230607021126-908b19015fc4
+	github.com/google/yamlfmt v0.10.0
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/jedib0t/go-pretty v4.3.0+incompatible
 	github.com/mholt/archiver/v3 v3.5.1
