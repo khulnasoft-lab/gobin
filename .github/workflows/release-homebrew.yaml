@@ -37,11 +37,3 @@ jobs:
           formula: gobin
           tag: ${{ steps.release_info.outputs.tag_name }}
           revision: ${{ steps.git_info.outputs.commit }}
-
-      - uses: 8398a7/action-slack@fbd6aa58ba854a740e11a35d0df80cb5d12101d8 #v3.15.1
-        if: ${{ failure() }}
-        with:
-          status: ${{ job.status }}
-          fields: repo,workflow,action,eventName
-          text: "Post-release homebrew publish workflow has failed: https://github.com/khulnasoft-lab/gobin/actions/workflows/release-homebrew.yaml"
-      
